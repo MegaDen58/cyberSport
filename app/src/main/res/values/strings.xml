@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">G2 VS NAVI</string>
+    <string name="plusPointToG2">+1 РАУНД</string>
+    <string name="plusPointToNavi">+1 РАУНД</string>
+    <string name="score">СЧЁТ</string>
+    <string name="g2Scrore">0</string>
+    <string name="naviScore">0</string>
+    <string name="resetScore">Сбросить счёт</string>
 </resources>
