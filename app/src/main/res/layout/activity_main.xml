@@ -30,6 +30,7 @@
         android:layout_marginStart="36dp"
         android:text="@string/plusPointToG2"
         android:background="@color/buttonPlusPointToG2"
+        android:textColor="@color/textButtonPlusPointToG2"
         app:layout_constraintBottom_toBottomOf="@+id/plusPointToNavi"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/plusPointToNavi"
@@ -42,6 +43,7 @@
         android:layout_marginEnd="36dp"
         android:layout_marginBottom="168dp"
         android:text="@string/plusPointToNavi"
+        android:textColor="@color/textButtonPlusPointToNavi"
         android:background="@color/buttonPlusPointToNavi"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
@@ -119,6 +121,7 @@
         android:layout_marginBottom="16dp"
         android:text="@string/resetScore"
         android:background="@color/resetScore"
+        android:textColor="@color/textButtonReset"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
