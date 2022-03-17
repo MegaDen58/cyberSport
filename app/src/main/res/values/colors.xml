@@ -13,4 +13,7 @@
     <color name="textScore">#DAA520</color>
     <color name="g2Score">#DAA520</color>
     <color name="naviScore">#DAA520</color>
+    <color name="textButtonPlusPointToG2">#FFFFFFFF</color>
+    <color name="textButtonPlusPointToNavi">#FFFFFFFF</color>
+    <color name="textButtonReset">#FFFFFFFF</color>
 </resources>
